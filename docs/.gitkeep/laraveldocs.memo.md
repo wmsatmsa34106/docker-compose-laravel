@@ -1,0 +1,12 @@
+- google : "laravel docker github"
+    - https://github.com/ucan-lab/docker-laravel
+    - https://github.com/aschmelyun/docker-compose-laravel
+
+- その他
+    - google : laravel docker-compose
+        - その他のGoogleSujestも面白そう
+        - https://www.twilio.com/blog/get-started-docker-laravel-jp?title="DockerとLaravelを使って開発してみよう | www.twilio.com" ... かなり良さそう？
+        - https://www.kamome-susume.com/laravel-docker/?title="【Docker】Laravel8・PHP8・mysql8でマイグレーションまで実行する【Laravel9対応】 | カモメのススメ"
+        - https://qiita.com/shizen-shin/items/b3b370e25cca4823a046?title=""
+        - https://qiita.com/ucan-lab/items/5fc1281cd8076c8ac9f4?title="最強のLaravel開発環境をDockerを使って構築する - Qiita"
+    - 
